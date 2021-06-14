@@ -1,3 +1,10 @@
+/**********************************************************/
+/*                                                        */
+/* Anthony Meyer                                          */     
+/* https://www.codechef.com/problems/CHFHEIST             */
+/*                                                        */
+/**********************************************************/
+
 #include <cstdio>
 #include <cmath>
 #include <iostream>
