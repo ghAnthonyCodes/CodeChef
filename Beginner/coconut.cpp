@@ -1,3 +1,10 @@
+/**********************************************************/
+/*                                                        */
+/* Anthony Meyer                                          */     
+/* https://www.codechef.com/problems/COCONUT              */
+/*                                                        */
+/**********************************************************/
+
 #include <iostream>
 #include <cstdio>
 #include <cmath>
