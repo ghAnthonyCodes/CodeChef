@@ -7,6 +7,7 @@ Contest: https://www.codechef.com/JUNE21C
 Leaderboard: https://www.codechef.com/rankings/JUNE21C 
 
 Final Score: 635
+
 Final Rank: 495 of 28,907
 
 Solutions will be released after the contest is over.
