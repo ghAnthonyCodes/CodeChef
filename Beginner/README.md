@@ -8,5 +8,6 @@
 - Sum of Digits (FLOW006) | [problem](https://www.codechef.com/problems/FLOW006) | [code](flow006.cpp)
 - ATM (HS08TEST) | [problem](https://www.codechef.com/problems/HS08TEST) | [code](hs08test.cpp)
 - Enormous Input test (INTEST) | [problem](https://www.codechef.com/problems/INTEST) | [code](intest.cpp)
+- Lucky Four (LUCKFOUR) | [problem](https://www.codechef.com/problems/LUCKFOUR) | [code](luckfour.cpp)
 - Number Mirror (STRART01) | [problem](https://www.codechef.com/problems/STRART01) | [code](start01.cpp)
 - Turbo Sort (TSORT) | [problem](https://www.codechef.com/problems/TSORT) | [code](tsort.cpp)
