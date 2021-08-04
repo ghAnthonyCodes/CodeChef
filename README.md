@@ -6,7 +6,7 @@ Contests: 1
 
 Global Rank 63,507 of 345,829 (will increase with more participation)
 
-Country Tank 865 of 5,277
+Country Rank 865 of 5,277
 
 ## June Challenge 2021 Division 3 (Rated)
 Contest: https://www.codechef.com/JUNE21C
