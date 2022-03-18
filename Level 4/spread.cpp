@@ -13,8 +13,8 @@ class FenwickTree {
 
   // Initiate tree, internal tree is 1-based indexing, but external isn't
   FenwickTree(int N) {
-    this->N = N + 2;
-    this->T = std::vector<T_t>(N + 2, 0);
+    this->N = N + 1;
+    this->T = std::vector<T_t>(N + 1, 0);
   }
 
 #if defined(RANGE_ADD)
@@ -73,16 +73,16 @@ int main() {
   char type[1];
   scanf("%d %d %d", &n, &m, &c);
   FenwickTree<ll> f = FenwickTree<ll>(n);
-  f.rangeAdd(1, n, c);
+  f.rangeAdd(0, n-1, c);
 
   for (int ops = 0; ops < m; ops++) {
     scanf("%s", type);
     if (type[0] == 'S') {
       scanf("%d %d %d", &u, &v, &k);
-      f.rangeAdd(u, v, k);
+      f.rangeAdd(u-1, v-1, k);
     } else {
       scanf("%d", &p);
-      printf("%lld\n", f.pointQuery(p));
+      printf("%lld\n", f.pointQuery(p-1));
     }
   }
   return 0;
