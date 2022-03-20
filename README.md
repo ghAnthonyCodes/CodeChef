@@ -2,29 +2,23 @@
 
 [Profile](https://www.codechef.com/users/anthonycodes)
 
-Contests: 1
-
-Global Rank 63,507 of 345,829 (will increase with more participation)
-
-Country Rank 865 of 5,277
+Contests: 2
 
 ## June Challenge 2021 Division 3 (Rated)
 Contest: https://www.codechef.com/JUNE21C
 
 Leaderboard: https://www.codechef.com/rankings/JUNE21C 
 
-Final Score: 635
+Rank within division 3: 435 of 28,907 (Top 1.5%)
 
-Final Rank: 495 of 28,907
+Rating Change: +108 -> 1608
 
-Solutions will be released after the contest is over.
-- [Solved] Summer Heat (COCONUT) | [problem](https://www.codechef.com/problems/COCONUT) | [code](Beginner/coconut.cpp)
-- [solved] Bella Ciao (CHFHEIST) | [problem](https://www.codechef.com/problems/CHFHEIST) | [code](Easy/chfheist.cpp)
-- [solved] Bitwise Tuples (BITTUP) | [problem](https://www.codechef.com/problems/BITTUP) | [code](Easy/bittup.cpp)
-- [solved] Shortest Route (SHROUTE) | [problem](https://www.codechef.com/problems/SHROUTE) | [code](Easy/shroute.cpp)
-- [solved] Minimum Dual Area (DAREA) | [problem](https://www.codechef.com/problems/DAREA) | [code](Easy/darea.cpp)
-- [solved] Minimum Subtree Cover (SUBTRCOV) | [problem](https://www.codechef.com/problems/SUBTRCOV) | [code](Easy/subtrcov.cpp)
-- [Partially Solved] Dual Distance (DUALDIST) | [problem](https://www.codechef.com/problems/DUALDIST)
-- [Partially Solved] Optimal Xor Set (OPTSET) | [problem](https://www.codechef.com/problems/OPTSET)
-- [Partially Solved] Maximum Frequent Subarray Sum (MFSS) | [problem](https://www.codechef.com/problems/MFSS)
-- MathBuzz (MAT) | [problem](https://www.codechef.com/problems/MAT)
+## March Lunchtime 2022 Division 2 (Rated)
+Contest: https://www.codechef.com/LTIME106B
+
+Leaderboard: https://www.codechef.com/rankings/LTIME106B
+
+Rank within division 2: 649 of 2,437 (Top 26.6%)
+
+Rating Change: +94 -> 1702
+
